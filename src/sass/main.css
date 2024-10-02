@@ -1,6 +1,7 @@
 h1 {
 text-align: center;
 color: black;
+margin-left: 50px;
 }
 
 p {
@@ -11,4 +12,6 @@ img {
 max-width:30%;
 max-height:30%;
 border-radius: 10%; 
+margin-top: 10px; 
+margin-left: 40px;
 }
