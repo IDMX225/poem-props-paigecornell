@@ -1,3 +1,7 @@
 /* main */
 @use "./base/reset";
 @use "./pages/home";
+
+h1 {
+text-align: center; 
+}
