@@ -4,13 +4,16 @@
 
 h1 {
 text-align: center;
-padding-left: 180px;
+padding-left: 120px;
+font-family: var(--font-antique);
+
 }
 
 p {
 text-align: center;
 padding-left: 240px;
 font-size: 20px;  
+font-family: var(--font-old-style);
 }
 
 img {
@@ -19,9 +22,9 @@ max-height: 30%;
 align-items: center;
 margin-left: 30px;
 border-radius: 10%; 
+margin-top: 1%; 
 }
 
 body {
-background-color: var(--cyan-1);
+background-color: var(--blue-1);
 }
-
