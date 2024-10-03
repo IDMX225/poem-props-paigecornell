@@ -1,4 +1,4 @@
-© Paige Cornell, 2024
+© Paige Cornell, 2024 |
 For Website Development II 
 
 Poem is The Road Not Taken by Robert Frost. Obtained from: https://www.public-domain-poetry.com/robert-lee-frost/road-not-taken-1222/
