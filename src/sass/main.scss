@@ -32,8 +32,17 @@ background-color: var(--blue-1);
 :root {
 color-scheme: light dark;
 }
+
 body {
-color: light-dark(#333b3c, #efefec);
-background-color: light-dark(#efedea, #223a2c);
+color: light-dark (#FFFFFF,#000000);
+background-color: light-dark(#FFFFFF,#000000);
 }
+  
+.light {
+color-scheme: light;
+}
+
+.dark {
+color-scheme: dark;
+  }
   
